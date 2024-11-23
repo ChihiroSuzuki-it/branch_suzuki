@@ -1,0 +1,14 @@
+public class Main {
+  public static void main(String[]args) {
+    long num = 100;
+
+    switch (num){
+      case 10:
+        System.out.println("numは10です。"）；
+      case 100:
+        System.out.println("numは100です。"）；
+      case 1000:
+        System.out.println("numは1000です。"）；
+    }
+  }
+}
