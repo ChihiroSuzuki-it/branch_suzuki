@@ -1,0 +1,13 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(255);
+    System.out.println(0b101);
+    System.out.println(0377);
+    System.out.println(0xxff);
+    System.out.println(12.34);
+    System.out.println(5e4);
+    System.out.println('A');
+    System.out.println("Hello World\n");
+    System.out.println(true);
+  }
+}
